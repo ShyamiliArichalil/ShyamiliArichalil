@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ShyamiliArichalil
-- 👀 I’m interested software development and Web Designing
-- 🌱 I’m currently learning PHP and Laravel Framework
+- 👀 I’m interested in software development
+- - 👀 I’m focusing on Web Development and Web Designing
+- 🌱 I’m currently working in PHP and Laravel Framework
 <!-- - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
