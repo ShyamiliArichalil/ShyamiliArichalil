@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ShyamiliArichalil
-- 👀 I’m interested software development
-- 🌱 I’m currently learning Python and PHP
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested software development and Web Designing
+- 🌱 I’m currently learning PHP and Laravel Framework
+<!-- - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...  -->
 
 <!---
 ShyamiliArichalil/ShyamiliArichalil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
